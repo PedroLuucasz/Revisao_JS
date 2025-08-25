@@ -5,10 +5,14 @@ Exercícios Práticos - For
 */
 
 // 1. Use um for para imprimir números de 1 a 10.
-
+for (let i = 1; i <= 10; i++) {
+  console.log("Número:", i);
+}
 
 // 2. Use um for para imprimir números pares de 0 a 20.
-
+for (let i = 0; i <= 20; i += 2) {
+  console.log("Número:", i);
+}
 
 // 3. Use um for para imprimir números ímpares de 1 a 15.
 

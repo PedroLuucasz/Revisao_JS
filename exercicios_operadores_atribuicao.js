@@ -1,5 +1,3 @@
-@ -5,35 +5,50 @@ Exercícios Práticos - Operadores de Atribuição
-*/
 
 // 1. Crie uma variável `n = 10`. Aplique `n += 5` e exiba.
 

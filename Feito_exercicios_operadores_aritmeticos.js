@@ -1,8 +1,3 @@
-/*
-===========================================================
-Exercícios Práticos - Operadores Aritméticos
-===========================================================
-*/
 
 // 1. Declare duas variáveis `x = 12` e `y = 4`. Exiba a soma no console.
 x = 12

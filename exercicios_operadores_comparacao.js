@@ -1,6 +1,3 @@
-@ -5,33 +5,37 @@ Exercícios Práticos - Operadores de Comparação
-*/
-
 // 1. Teste 5 == "5" e exiba o resultado.
 
 console.log(5 == "5"); // true
